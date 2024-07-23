@@ -33,4 +33,4 @@ st.markdown("""
     </p>
 """, unsafe_allow_html=True)
 
-st.image(r"C:\Users\Fumihiro\My_app\nihongo_quiz_ver.2\data\vocabulary_cards.jpg", use_column_width=True)
+st.image("/data/vocabulary_cards.jpg", use_column_width=True)
