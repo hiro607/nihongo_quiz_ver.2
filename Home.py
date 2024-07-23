@@ -32,5 +32,3 @@ st.markdown("""
             «Une langue vous place dans un couloir pour la vie.<br>Deux langues ouvrent toutes les portes en chemin.»<br>‒Frank Smith
     </p>
 """, unsafe_allow_html=True)
-
-st.image("/data/vocabulary_cards.jpg", use_column_width=True)
