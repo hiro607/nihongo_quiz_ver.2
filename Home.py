@@ -11,7 +11,7 @@ st.markdown(f"""
             font-family:Segoe UI; 
             font-size: 18px;
             text-align: center;
-            margin-top:30px;'>
+            margin-top:50px;'>
             Cette série de flash cards comprend 250 mots regroupés par thème pour vous aider à pratiquer. 
             Commencez par les thèmes que vous préférez et augmentez ainsi votre vocabulaire. 
             Les mots que vous ne connaissez pas seront listés à la fin de chaque session de pratique, alors assurez-vous de les copier dans votre carnet et de bien les mémoriser.
@@ -26,8 +26,7 @@ st.markdown("""
             font-size: 23px; 
             background-color:#CEC5F0;
             border: 2px solid #A5A0CF; 
-            margin-top:30px;
-            margin-bottom:30px;
+            margin-top:50px;
             padding:30px 0px; '>
             «Une langue vous place dans un couloir pour la vie.<br>Deux langues ouvrent toutes les portes en chemin.»<br>‒Frank Smith
     </p>
