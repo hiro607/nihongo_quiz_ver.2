@@ -10,6 +10,7 @@ st.markdown(f"""
     <p style='
             font-family:Segoe UI; 
             font-size: 18px;
+            font-style: italic;
             text-align: center;
             margin-top:50px;'>
             Cette série de flash cards comprend 250 mots regroupés par thème pour vous aider à pratiquer. 
